@@ -1,0 +1,2 @@
+# practiceProject
+learning javascript
